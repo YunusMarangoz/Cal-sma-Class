@@ -1,4 +1,4 @@
-﻿namespace Calısma_Class
+﻿namespace CalismaClass
 {
     internal class Program
     {
